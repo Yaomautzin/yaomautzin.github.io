@@ -38,7 +38,7 @@
 </head>
 <body>
   <div class="photo">
-    <img src="https://chat.openai.com/mnt/data/A_black_and_white_photograph_captures_a_light-skin.png" alt="Yaomautzin Ohtokani Olvera Lara">
+    <img src="https://github.com/Yaomautzin/yaomautzin.github.io/commit/60c88945bce7f20905a6f559db2bf9055618e512#diff-f4b8879885d943ce602afe7890ed4a0945f34f075c0e5b0f645991870db2cc9e">
   </div>
 
   <h1>Yaomautzin Ohtokani Olvera Lara</h1>
