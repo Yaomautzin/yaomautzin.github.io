@@ -47,15 +47,15 @@
 
   <h2>Semblanza</h2>
   <p>
-    Yaomautzin Ohtokani Olvera Lara (Manzanillo, Colima, México; 23 de julio de 1989) es abogado, docente universitario, funcionario público, activista y poeta mexicano. Actualmente se desempeña como Secretario General de la Universidad Intercultural de Colima, donde también ejerce como profesor-investigador. Su trayectoria combina el pensamiento jurídico crítico, el compromiso con la justicia socioambiental y una expresión poética que revela sensibilidad filosófica y resistencia cultural.
+    Yaomautzin Ohtokani Olvera Lara (Manzanillo, Colima, México; 23 de julio de 1989) es abogado, docente universitario, funcionario público, político y activista mexicano. Actualmente se desempeña como Secretario General de la Universidad Intercultural de Colima, donde también ejerce como profesor-investigador. Su trayectoria combina el pensamiento jurídico crítico, el compromiso con la justicia socioambiental y una expresión poética que revela sensibilidad filosófica y resistencia cultural.
 
-📘 Semblanza institucional breve
+<h2>Semblanza institucional breve</h2>
 
 Yaomautzin Olvera Lara es abogado con mención honorífica por la Universidad de Colima y máster en Filosofía Jurídica y Política Contemporánea por la Universidad Carlos III de Madrid. Especialista en medio ambiente, políticas públicas e interculturalidad, ha participado en procesos de reforma legal, diseño curricular y gestión universitaria. Actualmente es Secretario General y profesor-investigador en la Universidad Intercultural de Colima. Ha publicado artículos académicos y de opinión en México, América Latina y Europa, y ha sido citado en múltiples universidades. Como poeta, ha participado en antologías con haikus y poesía breve. Sus áreas de trabajo se enfocan en derechos humanos, justicia ambiental, soberanía alimentaria y pensamiento decolonial.
 
 🔗 Reconocimiento oficial: Panel de Google
 
-🎓 Formación académica
+<h2>Formación académica</h2>
 
 Licenciado en Derecho, Universidad de Colima (Mención Honorífica). Tesis: Una trilogía de ponderación de derechos: el caso de los alimentos transgénicos.
 
@@ -67,15 +67,15 @@ Máster en Filosofía Jurídica y Política Contemporánea, Universidad Carlos I
 
 Cuenta con más de 20 diplomados y cursos en derechos humanos, amparo, pensamiento jurídico, justicia ambiental, política, salud mental, género e interculturalidad. Ha recibido formación adicional en instituciones como Harvard, Cornell, Université catholique de Louvain, y la UNAM.
 
-👨‍🏫 Trayectoria profesional y académica
+<h2>Trayectoria profesional y académica</h2>
 
 Ha sido asesor jurídico de diputados locales y federales, coordinador de programas de prevención social y consultor en políticas públicas. Participó en el comité de diseño curricular para la apertura de la Universidad Intercultural de Colima, donde actualmente es Secretario General.
 
-Docencia e investigación
+<h2>Docencia e investigación</h2>
 
 Es profesor-investigador en dicha universidad, donde impulsa un modelo educativo territorial, crítico e intercultural. Ha sido investigador del Instituto de Investigaciones Estratégicas de la Armada de México y realizó estancias en el IIJ-UNAM y en la SCJN.
 
-📚 Producción académica
+<h2>Producción académica</h2>
 
 Ha publicado artículos en revistas como DE JURE, Universo Académico y el Instituto de Investigaciones Estratégicas de la Armada de México. Sus principales contribuciones son:
 
@@ -87,7 +87,7 @@ Ha publicado artículos en revistas como DE JURE, Universo Académico y el Insti
 
 "La Cruzada Nacional contra el Hambre a la luz del derecho a la alimentación"
 
-Citación internacional
+<h2>Citación internacional</h2>
 
 Sus trabajos han sido citados en tesis y publicaciones de México, Perú, Ecuador, Colombia, Costa Rica, Venezuela, Canadá y España. Entre ellas:
 
@@ -105,7 +105,7 @@ McGill University (Canadá)
 
 Universidad de Barbastro-Monzón (España)
 
-📰 Artículos de opinión
+<h2>Artículos de opinión</h2>
 
 Ha publicado en Rebelion.org, Prensa Libre y La Razón de México, abordando temáticas como soberanía alimentaria, extractivismo, geopolítica y 4T. Algunos títulos:
 
@@ -117,7 +117,7 @@ Ha publicado en Rebelion.org, Prensa Libre y La Razón de México, abordando tem
 
 “Defender nuestro maíz nativo es defender nuestra soberanía y la seguridad alimentaria de la humanidad”
 
-📸 Fotografía y cultura visual
+<h2>Fotografía y cultura visual</h2>
 
 Ha documentado paisajes, flora y zonas arqueológicas. Sus imágenes han sido publicadas en:
 
@@ -129,15 +129,15 @@ Editorial Santillana (México)
 
 Wikimedia Commons
 
-🧭 Participación política
+<h2>Participación política</h2>
 
 Fue candidato suplente a diputado federal por mayoría relativa en 2021 por la coalición Juntos Hacemos Historia, como parte de las acciones afirmativas de representación territorial e intercultural.
 
-🌱 Ponencias y reconocimientos
+<h2>Ponencias y reconocimientos</h2>
 
 Ha sido ponente en más de 20 foros, conferencias y festivales sobre derecho, interculturalidad, maíz nativo, agroecología y soberanía alimentaria. Moderador en presentaciones de libros y organizador de ferias universitarias.
 
-Reconocimientos:
+<h2>Reconocimientos:</h2>
 
 1er lugar en ensayo sobre el Bicentenario (UdeC, 2010)
 
@@ -145,7 +145,7 @@ Reconocimientos:
 
 Múltiples constancias por diseño curricular y participación comunitaria en la UIC
 
-🔗 Cargos honoríficos
+<h2>Cargos honoríficos</h2>
 
 Secretario de Organización, Asociación Nacional de Abogados Democráticos (Colima)
 
@@ -153,7 +153,7 @@ Miembro del Consejo Académico y de la Junta de Gobierno de la UIC
 
 Representante en la Comisión Dictaminadora del PACMyC y en Consejos Ciudadanos de DDHH
 
-✍🏽 Poesía
+<h2>Poesía</h2>
 
 Como poeta, ha publicado haikus y poemas breves en las siguientes antologías:
 
